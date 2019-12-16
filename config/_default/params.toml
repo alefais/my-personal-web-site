@@ -9,10 +9,10 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "coffee"
+theme = "green_coffee"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -41,7 +41,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Alessandra Fais's Home Page"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
