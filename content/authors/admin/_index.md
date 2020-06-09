@@ -21,12 +21,12 @@ organizations:
 #bio: My research interests include ...
 
 interests:
-- Network Monitoring
+- Network monitoring
+- High-perfomance network processing
+- Data plane acceleration
 - Software Defined Networks
 - Data Stream Processing
-- Parallel Computing
-- High Performance Computing
-- Distributed Systems
+- Parallel computing
 
 education:
   courses:
@@ -58,28 +58,12 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-3824-5655
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: 
-#- icon: researchgate
-#  icon_pack: ai
-#  link: 
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.it/citations?user=BBjWkVEAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Alessandra_Fais
 
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers [{}, {}]
-- Visitors
 ---
-
-I'm a Ph.D. student at the Department of Information Engineering (DII) of the University of Pisa, under the supervision of Prof. [Stefano Giordano](https://www.researchgate.net/profile/S_Giordano) and Prof. [Gregorio Procissi](https://www.researchgate.net/profile/Gregorio_Procissi). My main research interests are in the subjects of Network Monitoring, Software Defined Networks, Parallel Computing, High-Performance Computing. During my Master's thesis I had the possibility of being more familiar with the topic of Data Stream Processing and I'd be very interested in further exploring this research area with a focus on real-time applications in the networking domain.
+I'm a Ph.D. student in the Department of Information Engineering, University of Pisa. I received both my Bachelor's and Master's Degrees from the Department of Computer Science, University of Pisa. During my Master Degree’s thesis, I started approaching the data stream processing research area. My main research interests are related to data stream processing applications in the networking domain, high performance network processing, data plane acceleration, SmartNICs and software defined networks. If you have any question related to my work, please feel free to [contact me](#contacts).

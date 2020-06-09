@@ -12,6 +12,6 @@ image:
   focal_point: Smart
 
 links:
-url_pdf: "https://www.dropbox.com/s/obdk7qnieulh9en/Fais_BScThesis.pdf?dl=0"
-url_slides: "https://www.dropbox.com/s/4b6ovkeawbg5adp/Fais_BScPresentation.pdf?dl=0"
+url_pdf: "https://github.com/alefais/personal_site/blob/master/static/files/Fais_BScThesis.pdf"
+url_slides: "https://github.com/alefais/personal_site/blob/master/static/files/Fais_BScPresentation.pdf"
 ---

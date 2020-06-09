@@ -5,15 +5,16 @@
 
 widget = "office_locations"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
 title = "Where to find me?"
-subtitle = "These are my office locations at the [Department of Information Engineering](https://www.dii.unipi.it/) and at [NetResults S.r.l.](https://www.netresults.it/it/)."
+subtitle = ""
+# subtitle = "These are my office locations at the [Department of Information Engineering](https://www.dii.unipi.it/) and at [NetResults S.r.l.](https://www.netresults.it/it/)."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -29,11 +30,11 @@ subtitle = "These are my office locations at the [Department of Information Engi
   # gradient_end = "SkyBlue"
   
   # Background image.
-  #image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  #image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  #image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = false
@@ -49,19 +50,16 @@ subtitle = "These are my office locations at the [Department of Information Engi
  # CSS class.
  css_class = ""
 
+# > [NetResults S.r.l.](https://goo.gl/maps/ugy5qmNsFGviWR7U9)  
+#  Via Agostino Bassi, 5  
+#  56121 Pisa (PI)  
+#  Italy
 +++
-
   
 > [Department of Information Engineering](https://goo.gl/maps/DkbV4roP1AxZgjye8)  
   University of Pisa  
   Largo Lucio Lazzarino, 1  
   56122 Pisa (PI)  
-  Italy
-
-
-> [NetResults S.r.l.](https://goo.gl/maps/ugy5qmNsFGviWR7U9)  
-  Via Agostino Bassi, 5  
-  56121 Pisa (PI)  
   Italy
 
 
