@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "green_coffee"
+theme = "whiteblue_coffee"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -18,7 +18,7 @@ day_night = false
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "rose"
+#font = "rose"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -58,7 +58,7 @@ logo = ""
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
 highlight_languages = ["r"]  # Add support for highlighting additional languages
-# highlight_style = "monokai sublime"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+highlight_style = "monokai sublime"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
@@ -75,7 +75,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+#edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 ############################
 ## Contact details
@@ -95,8 +95,8 @@ address = {}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-#coordinates = {latitude = "43.721366", longitude = "10.389954"}
-coordinates = {}
+coordinates = {latitude = "43.721366", longitude = "10.389954"}
+#coordinates = {}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -115,7 +115,7 @@ appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
+contact_links = [{},
   {icon = "envelope", icon_pack = "fas", name = "Institutional Mail Address", link = "mailto:alessandra.fais@phd.unipi.it"},
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/alessandra-fais"},
   {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/alefais"},
@@ -125,8 +125,8 @@ contact_links = [
   {}, {},
   {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/alessandra.fais.92"},
   {icon = "instagram", icon_pack = "fab", name = "Instagram", link = "https://www.instagram.com/ale_fais"},
-  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/ale_fais"}
-  ]  
+  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/ale_fais"},
+  {},{}]  
 
 ############################
 ## Social
@@ -159,20 +159,20 @@ address_format = "en-us"
 gravatar = false
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true}
+main_menu = {align = "r", show_logo = true}
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Link authors to their profile page? (true/false)
-link_authors = true
+link_authors = false
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
@@ -217,12 +217,12 @@ plugins_js  = []
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = false, post = false, docs = false, project = false, publication = false, talk = false}
 
   # Configuration of Disqus.
   [comments.disqus]
     shortname = ""  # Paste the shortname from your Disqus dashboard.
-    show_count = true  # Show comment count in page header? (true/false)
+    show_count = false  # Show comment count in page header? (true/false)
 
 ############################
 ## Search

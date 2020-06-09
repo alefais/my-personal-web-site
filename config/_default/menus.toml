@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "HOME"
   url = "#about"
   weight = 10
 
@@ -12,35 +12,46 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "#cv" #url = "files/cv.pdf"
+  #url = "#cv"
+  url = "https://github.com/alefais/personal_site/blob/master/static/files/Fais_Resume.pdf"
   weight = 15
 
 [[main]]
-  name = "Thesis"
-  url = "#thesis"
+  name = "RESEARCH"
+  url = "#researchprojects"
   weight = 20
 
+#[[main]]
+#  name = "PUBLICATIONS"
+#  url = "#publications"
+#  weight = 25
+
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "TALKS"
+  url = "#talks"
   weight = 30
 
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
-
-#[[main]]
-#  name = "Talks"
-#  url = "#talks"
-#  weight = 50
+[[main]]
+  name = "TEACHING"
+  url = "#teaching"
+  weight = 35
 
 [[main]]
-  name = "Contacts"
-  url = "#contact"
+  name = "THESIS"
+  url = "#thesis"
+  weight = 45
+
+[[main]]
+  name = "ACADEMIC PROJECTS"
+  url = "#academicprojects"
+  weight = 55
+
+[[main]]
+  name = "CONTACTS"
+  url = "#contacts"
   weight = 60
 
-[[main]]
-  name = "Office Locations"
-  url = "#office"
-  weight = 70
+#[[main]]
+#  name = "PROVA"
+#  url = "/courses"
+#  weight = 65
