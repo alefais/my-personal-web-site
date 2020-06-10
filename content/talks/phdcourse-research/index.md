@@ -48,7 +48,7 @@ links: []
 #  url: 
 url_code: ""
 url_pdf: ""
-url_slides: "https://github.com/alefais/personal_site/blob/master/static/presentations/phdcourse-research.pdf"
+url_slides: "https://github.com/alefais/personal-site/blob/master/static/presentations/phdcourse-research.pdf"
 url_video: ""
 
 # Markdown Slides (optional).

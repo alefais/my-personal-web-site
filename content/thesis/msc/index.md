@@ -26,6 +26,6 @@ links:
   url: https://github.com/alefais/windflow-applications
 
 url_code: ""
-url_pdf: "https://github.com/alefais/personal_site/blob/master/static/files/Fais_MScThesis.pdf"
-url_slides: "https://github.com/alefais/personal_site/blob/master/static/files/Fais_MScPresentation.pdf"
+url_pdf: "https://github.com/alefais/personal-site/blob/master/static/files/Fais_MScThesis.pdf"
+url_slides: "https://github.com/alefais/personal-site/blob/master/static/files/Fais_MScPresentation.pdf"
 ---

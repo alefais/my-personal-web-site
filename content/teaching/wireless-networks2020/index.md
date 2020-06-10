@@ -45,23 +45,23 @@ links:
 - icon: 
   icon_pack: 
   name: Slide Lecture 1
-  url: "https://github.com/alefais/personal_site/blob/master/static/teaching/wirelessnetworks2020/lec1.pdf"
+  url: "https://github.com/alefais/personal-site/blob/master/static/teaching/wirelessnetworks2020/lec1.pdf"
 - icon: 
   icon_pack: 
   name: Slide Lecture 2
-  url: "https://github.com/alefais/personal_site/blob/master/static/teaching/wirelessnetworks2020/lec2.pdf"
+  url: "https://github.com/alefais/personal-site/blob/master/static/teaching/wirelessnetworks2020/lec2.pdf"
 - icon: 
   icon_pack: 
   name: Slide Lecture 3
-  url: "https://github.com/alefais/personal_site/blob/master/static/teaching/wirelessnetworks2020/lec3.pdf"
+  url: "https://github.com/alefais/personal-site/blob/master/static/teaching/wirelessnetworks2020/lec3.pdf"
 - icon: 
   icon_pack: 
-  name: "Code: docker example"
-  url: "https://github.com/alefais/personal_site/blob/master/static/teaching/wirelessnetworks2020/docker"
+  name: "Code: docker simple example"
+  url: "https://github.com/alefais/personal-site/blob/master/static/teaching/wirelessnetworks2020/simple-docker-app"
 - icon: 
   icon_pack: 
   name: "Code: docker compose example"
-  url: "https://github.com/alefais/personal_site/blob/master/static/teaching/wirelessnetworks2020/docker-compose"
+  url: "https://github.com/alefais/personal-site/blob/master/static/teaching/wirelessnetworks2020/composed-docker-app"
 - icon: 
   icon_pack: 
   name: Moodle

@@ -13,7 +13,7 @@
 [[main]]
   name = "CV"
   #url = "#cv"
-  url = "https://github.com/alefais/personal_site/blob/master/static/files/Fais_Resume.pdf"
+  url = "https://github.com/alefais/personal-site/blob/master/static/files/Fais_Resume.pdf"
   weight = 15
 
 [[main]]

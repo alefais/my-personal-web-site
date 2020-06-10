@@ -12,6 +12,6 @@ image:
   focal_point: Smart
 
 links:
-url_pdf: "https://github.com/alefais/personal_site/blob/master/static/files/Fais_BScThesis.pdf"
-url_slides: "https://github.com/alefais/personal_site/blob/master/static/files/Fais_BScPresentation.pdf"
+url_pdf: "https://github.com/alefais/personal-site/blob/master/static/files/Fais_BScThesis.pdf"
+url_slides: "https://github.com/alefais/personal-site/blob/master/static/files/Fais_BScPresentation.pdf"
 ---
