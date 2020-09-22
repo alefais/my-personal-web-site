@@ -30,14 +30,13 @@ tags:
 - Complex Event Processing
 - Data Stream Processing
 - Parallel Computing
-- WindFlow
 - Edge Computing
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Cyber-Physical Social Systems'
+  caption: 'Final talk for the PhD course \"Cyber-Physical Social Systems (CPSS)\"'
   focal_point: Smart
 
 links: []
@@ -47,7 +46,7 @@ links: []
 #  url: 
 url_code: ""
 url_pdf: ""
-url_slides: "https://github.com/alefais/personal-site/blob/master/static/presentations/phdcourse-cpss.pdf"
+url_slides: "https://github.com/alefais/personal-site/tree/master/static/presentations/other-talks/phdcourse-cpss.pdf"
 url_video: ""
 
 # Markdown Slides (optional).

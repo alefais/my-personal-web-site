@@ -17,23 +17,23 @@
   weight = 15
 
 [[main]]
-  name = "RESEARCH"
-  url = "#researchprojects"
+  name = "PUBLICATIONS"
+  url = "#publications"
   weight = 20
-
-#[[main]]
-#  name = "PUBLICATIONS"
-#  url = "#publications"
-#  weight = 25
 
 [[main]]
   name = "TALKS"
   url = "#talks"
-  weight = 30
+  weight = 25
 
 [[main]]
   name = "TEACHING"
   url = "#teaching"
+  weight = 30
+  
+[[main]]
+  name = "RESEARCH"
+  url = "#researchprojects"
   weight = 35
 
 [[main]]

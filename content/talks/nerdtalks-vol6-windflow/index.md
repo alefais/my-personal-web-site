@@ -1,6 +1,6 @@
 ---
 title: Implementing Data Stream Processing Applications with the WindFlow library
-event: The Nerd Talks at NetResults
+event: The Nerd Talks at NetResults (Vol. 6)
 event_url: https://www.netresults.it/it/news/nerd-talk-feb-2020
 
 location: NetResults Srl
@@ -34,7 +34,7 @@ tags:
 featured: false
 
 image:
-  caption: 'NerdTalk Presentation'
+  caption: 'Live Presentation at NerdTalk Vol. 6'
   focal_point: Smart
 
 links: []
@@ -44,7 +44,7 @@ links: []
 #  url: 
 url_code: ""
 url_pdf: ""
-url_slides: "https://github.com/alefais/personal-site/blob/master/static/presentations/windflow-nerdtalk.pdf"
+url_slides: "https://github.com/alefais/personal-site/blob/master/static/presentations/other-talks/nerdtalks-vol6-windflow.pdf"
 url_video: ""
 
 # Markdown Slides (optional).

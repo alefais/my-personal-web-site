@@ -1,5 +1,5 @@
 ---
-title: "WindFlow: Efficient Continuous Data Stream Processing with Parallel Building Blocks"
+title: "WindFlow: High-Speed Continuous Stream Processing with Parallel Building Blocks"
 authors:
 - Gabriele Mencagli
 - Massimo Torquati
@@ -8,7 +8,7 @@ authors:
 - Luca Rinaldi
 - Marco Danelutto
 
-date: "2020-05-02T00:00:00Z"
+date: "2020-10-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,11 +21,10 @@ publishDate: "" #"2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "IEEE Transactions on Parallel and Distributed Systems (TPDS)"
+publication_short: "IEEE TPDS"
 
-abstract: "Stream Processing Systems (SPSs) process unbounded sequences of inputs on-the-fly to provide timely results to the users. Most of them (e.g., STORM and FLINK) adopt the continuous streaming model, where inputs are processed as they are available and outputs are emitted continuously. Furthermore, they target clusters, with run-time systems dealing with inter-process communication, resource scheduling, and based on the Java Virtual Machine (JVM) for platform independence. Recently, there has been an interest in SPSs for scale-up servers, where the complexity of the distributed design has been removed. However, most of
-them are still based on the JVM (e.g., BRISKSTREAM), while existing C++ alternatives (e.g., STREAMBOX) use the discretized streaming approach, where inputs are buffered in batches whose processing is scheduled on the available cores. This paper describes a C++17-based library (WINDFLOW) for continuous streaming on multicores. It provides two contributions: i) from the software engineering perspective, it has been built following a formal approach based upon the assembly of components called building blocks, whose composition can be optimized to achieve high-throughput and low-latency; ii) the experimental analysis demonstrates that the design of the WINDFLOW run-time system brings superior performance than traditional and research JVM-based SPSs, and against recent C++-based prototypes."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
