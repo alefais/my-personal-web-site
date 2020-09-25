@@ -90,12 +90,12 @@ phone = ""
 
 # Address 1
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-#address = {street = "Largo Lucio Lazzarino 1", city = "Pisa", region = "PI", postcode = "56122", country = "Italy", country_code = "IT"}
+#address = {street = "Via Girolamo Caruso 16", city = "Pisa", region = "PI", postcode = "56122", country = "Italy", country_code = "IT"}
 address = {}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "43.721366", longitude = "10.389954"}
+coordinates = {latitude = "43.720672", longitude = "10.383429"}
 #coordinates = {}
 
 # Directions for visitors to locate you.

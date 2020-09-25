@@ -20,8 +20,8 @@ email_form = 0
 
 +++
 
-> [Department of Information Engineering](https://goo.gl/maps/DkbV4roP1AxZgjye8)  
+> Department of Information Engineering
   University of Pisa  
-  Largo Lucio Lazzarino, 1  
+  Via Girolamo Caruso, 16  
   56122 Pisa (PI)  
   Italy
