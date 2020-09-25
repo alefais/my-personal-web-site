@@ -20,7 +20,7 @@ email_form = 0
 
 +++
 
-> Department of Information Engineering
+> [Department of Information Engineering](https://goo.gl/maps/HVfaQSRhbNngSnRv5),
   University of Pisa  
   Via Girolamo Caruso, 16  
   56122 Pisa (PI)  
